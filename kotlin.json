@@ -1,0 +1,29 @@
+{
+  "kitaplar": [
+    {
+      "ad": "İnsan Olmanın Psikolojisi",
+      "yazar": "Metin Balcı",
+      "fiyat": "35,00 TL"
+    },
+    {
+      "ad": "Psikolojik Danışma ve Rehberlik",
+      "yazar": "Osman Üstün",
+      "fiyat": "28,90 TL"
+    },
+    {
+      "ad": "Gelişim Psikolojisi",
+      "yazar": "Leman Pınar Tosun",
+      "fiyat": "45,00 TL"
+    },
+    {
+      "ad": "Sosyal Psikoloji",
+      "yazar": "Kenan Gürsoy",
+      "fiyat": "38,50 TL"
+    },
+    {
+      "ad": "Temel Psikoloji",
+      "yazar": "İnci Dirim",
+      "fiyat": "42,00 TL"
+    }
+  ]
+}
