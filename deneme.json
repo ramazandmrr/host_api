@@ -1,1 +1,22 @@
-
+[
+  {
+    "Ad": " Basmane Garı Bez Çanta",
+    "Fiyat": "150 point ",
+    "image": "https://www.izmirshop.com/wp-content/uploads/2023/10/basmane-gari-canta.png"
+  },
+  {
+    "Ad": "Ephesus Kupa Bardak",
+    "konum": "120 point",
+    "image": "https://www.izmirshop.com/wp-content/uploads/2023/10/ephesus-kupa-bardak-1.png"
+  },
+  {
+    "Ad": " Ephesus Tişört",
+    "konum": "180 point",
+    "image": "https://www.izmirshop.com/wp-content/uploads/2023/10/resim_2023-10-23_160714152.png"
+  },
+  {
+    "Ad": " Akdeniz Foku Kumaş Oyuncak",
+    "konum": "120 point",
+    "image": "https://www.izmirshop.com/wp-content/uploads/2023/11/akdeniz-foku-kumas-oyuncak.png"
+  }
+]
